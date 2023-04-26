@@ -1,0 +1,7 @@
+name: TPBow
+version: '1.0.0'
+main: dev.xernas.tpbow.TPBow
+api-version: 1.18
+commands:
+  tpbow:
+    description: Gives you a bow that can teleport you
